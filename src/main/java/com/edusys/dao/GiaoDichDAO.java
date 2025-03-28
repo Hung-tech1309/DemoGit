@@ -9,5 +9,7 @@ package com.edusys.dao;
  * @author tinhn
  */
 public class GiaoDichDAO {
+      private int 1;
+    
     
 }
